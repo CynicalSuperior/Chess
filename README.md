@@ -1,0 +1,3 @@
+Main.cpp - Full Source code
+Chess.exe - Final chess executable file
+Others are images and icons plus sfml extensions used in this project
